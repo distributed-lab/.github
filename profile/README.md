@@ -8,3 +8,5 @@ We love open source. We develop many open source products, libraries, developer 
 - [TokenE](https://github.com/dl-tokene)
 - [TokenD](https://github.com/tokend)
 - [Swapica](https://github.com/Swapica)
+- [Dapppad](https://github.com/dl-dapppad)
+- [DeFaino](https://github.com/defaino)
