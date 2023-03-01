@@ -10,3 +10,4 @@ We love open source. We develop many open source products, libraries, developer 
 - [Swapica](https://github.com/Swapica)
 - [Dapppad](https://github.com/dl-dapppad)
 - [DeFaino](https://github.com/defaino)
+- [NFT Books](https://github.com/DL-NFT-Books)
