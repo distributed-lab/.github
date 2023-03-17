@@ -11,4 +11,4 @@ We love open source. We develop many open source products, libraries, developer 
 - [Dapppad](https://github.com/dl-dapppad)
 - [DeFaino](https://github.com/defaino)
 - [NFT Books](https://github.com/DL-NFT-Books)
-- [W3Sign](https://github.com/web3-sign-app)
+- [W3Sign](https://github.com/dl-w3sign)
