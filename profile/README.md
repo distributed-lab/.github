@@ -12,3 +12,4 @@ We love open source. We develop many open source products, libraries, developer 
 - [DeFaino](https://github.com/defaino)
 - [NFT Books](https://github.com/DL-NFT-Books)
 - [W3Sign](https://github.com/dl-w3sign)
+- [Coin Shuffle](https://github.com/coin-shuffle)
