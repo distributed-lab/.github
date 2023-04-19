@@ -1,4 +1,4 @@
-Distributed Lab is a Ukrainian team of developers, cryptographers, business analysts and architects that has developed over 100 blockchain platforms in more than 20 countries in Europe, the USA, the Middle East and Africa since 2014.
+Distributed Lab is a Ukrainian team of developers, cryptographers, business analysts and architects that has developed over 100 blockchain platforms in more than 20 countries in Europe, USA, Middle East, Singapore and Africa since 2014.
 
 We love open source. We develop many open source products, libraries, developer tooling, etc. and believe that it brings us closer to Financial Internet.
 
