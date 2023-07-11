@@ -4,7 +4,7 @@ We love open source. We develop many open source products, libraries, developer 
 
 ### DL Open Source Products
 
-- [Distributed Lab Web Kit (JS SDK)](https://github.com/web-kit)
+- [Distributed Lab Web Kit (JS SDK)](https://github.com/distributed-lab/web-kit)
 - [Distributed Lab Solidity library](https://github.com/dl-solidity-library)
 - [TokenE](https://github.com/dl-tokene)
 - [TokenD](https://github.com/tokend)
