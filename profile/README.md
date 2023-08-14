@@ -4,7 +4,7 @@ We love open source. We develop many open source products, libraries, developer 
 
 ### DL Open Source Products
 
-- [Distributed Lab Solidity library](https://github.com/dl-solidity-library)
+- [Solarity](https://github.com/dl-solarity)
 - [TokenE](https://github.com/dl-tokene)
 - [TokenD](https://github.com/tokend)
 - [Swapica](https://github.com/Swapica)
