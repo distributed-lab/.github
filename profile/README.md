@@ -17,3 +17,4 @@ We love open source. We develop many open source products, libraries, developer 
 - [Distributed Lab Solana program library](https://github.com/distributed-lab/solana-program-library)
 - [Digital Certificates](https://github.com/Digital-Certificates-DL)
 - [Distributed Lab Web Kit (JS SDK)](https://github.com/distributed-lab/web-kit)
+- [Decentralized Indexing Protocol](https://github.com/dl-decentralized-indexing-protocol)
