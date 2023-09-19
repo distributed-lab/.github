@@ -18,3 +18,4 @@ We love open source. We develop many open source products, libraries, developer 
 - [Digital Certificates](https://github.com/Digital-Certificates-DL)
 - [Distributed Lab Web Kit (JS SDK)](https://github.com/distributed-lab/web-kit)
 - [Decentralized Indexing Protocol](https://github.com/dl-decentralized-indexing-protocol)
+- [Certificates Management System](https://github.com/orgs/manual-certificates/)
