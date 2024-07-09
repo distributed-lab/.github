@@ -19,3 +19,4 @@ We love open source. We develop many open source products, libraries, developer 
 - [Distributed Lab Web Kit (JS SDK)](https://github.com/distributed-lab/web-kit)
 - [Decentralized Indexing Protocol](https://github.com/dl-decentralized-indexing-protocol)
 - [Certificates Management System](https://github.com/orgs/manual-certificates/)
+- [Bulletproofs++ on Rust](https://github.com/distributed-lab/bp-pp) and [Bulletproofs++ on Go](https://github.com/distributed-lab/bulletproofs)
