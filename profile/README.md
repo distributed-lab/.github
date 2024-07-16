@@ -1,10 +1,11 @@
-Distributed Lab is a Ukrainian cryptography & engineering team focused on Bitcoin/EVM ecosystems. It has ~100 team members, most of whom are in Kyiv office, which helped to build over 250 projects since 2014.
+Distributed Lab is a Ukrainian cryptography & engineering team focused on Bitcoin/EVM ecosystems. With ~100 team members, most of whom are in the Kyiv office, the team has built over 250 projects since 2014.
 
-We love open source. We develop many open source products, libraries, developer tooling, etc. and believe that it brings us closer to Financial Internet.
+We love open source. We develop many open-source products, libraries, developer tooling, etc. and believe that it brings us closer to the Financial Internet.
 
 ### DL Open Source Products
 
 - [Solarity](https://github.com/dl-solarity)
+- [TokenF](https://github.com/dl-tokenf)
 - [TokenE](https://github.com/dl-tokene)
 - [TokenD](https://github.com/tokend)
 - [Swapica](https://github.com/Swapica)
