@@ -10,7 +10,6 @@ We love open source. We develop many open-source products, libraries, developer 
 - [Nero: BitVM2 Made Practical](https://github.com/distributed-lab/nero)
 - [Fast Windowed Multiplication implementation in Bitcoin](https://github.com/distributed-lab/bitcoin-window-mul)
 - [zkVerify Plonky2 pallet](https://github.com/zkVerify/zkVerify/pull/194)
-- [Aptos Veiled Coins](https://github.com/distributed-lab/aptos-veiled-coins)
 - [Solarity](https://github.com/dl-solarity)
 - [Hardhat ZKit](https://github.com/dl-solarity/hardhat-zkit)
 - [ZK Multisig](https://github.com/distributed-lab/zk-multisig)
