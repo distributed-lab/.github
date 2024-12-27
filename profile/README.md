@@ -8,7 +8,7 @@ We love open source. We develop many open-source products, libraries, developer 
 - [Linea](https://github.com/Consensys/linea-monorepo/pull/356)
 - [zkSync precompiles for BN254 curve](https://github.com/distributed-lab/era-zkevm_circuits/tree/feature/bn254-circuits/src/bn254)
 - [Nero: BitVM2 Made Practical](https://github.com/distributed-lab/nero)
-- Fast Windowed Multiplication implementation in Bitcoin: [Paper](https://github.com/distributed-lab/bitcoin-window-mul/blob/main/paper/iacrdoc.pdf), [Implementation](https://github.com/distributed-lab/bitcoin-window-mul)
+- Fast Windowed Multiplication implementation in Bitcoin: [Paper](https://eprint.iacr.org/2024/1236.pdf), [Implementation](https://github.com/distributed-lab/bitcoin-window-mul)
 - [zkVerify Plonky2 pallet](https://github.com/zkVerify/zkVerify/pull/194)
 - [Solarity](https://github.com/dl-solarity)
 - [Hardhat ZKit](https://github.com/dl-solarity/hardhat-zkit)
