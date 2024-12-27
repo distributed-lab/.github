@@ -15,7 +15,7 @@ We love open source. We develop many open-source products, libraries, developer 
 - ZK Multisig: [Paper](https://github.com/distributed-lab/papers/blob/main/zk-multisig/zk_multisig.pdf), [Implementation](https://github.com/distributed-lab/zk-multisig)
 - [Verkle Tries in Noir](https://github.com/distributed-lab/noir-verkle)
 - [Noir Plume](https://github.com/distributed-lab/noir-plume)
-- Taprootized Atomic Swaps: [Paper](https://github.com/distributed-lab/bitcoin-window-mul/blob/main/paper/iacrdoc.pdf), [Implementation](https://github.com/distributed-lab/taprootized-atomic-swaps)
+- Taprootized Atomic Swaps: [Paper](https://arxiv.org/abs/2402.16735), [Implementation](https://github.com/distributed-lab/taprootized-atomic-swaps)
 - [Bulletproofs++ on Rust](https://github.com/distributed-lab/bp-pp) and [Bulletproofs++ on Go](https://github.com/distributed-lab/bulletproofs)
 - [Generic Rust library for BPCon](https://github.com/distributed-lab/bpcon)
 - [W3Sign](https://github.com/dl-w3sign)
