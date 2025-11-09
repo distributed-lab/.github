@@ -1,9 +1,11 @@
-Distributed Lab is a Ukrainian cryptography and engineering team focused on cryptography-related projects (primarily in Bitcoin and EVM ecosystems). We have been operating since 2014. Our strength is the intersection of tech expertise — 90% of our team are engineers who work together in the Kyiv office.
+Distributed Lab is a cryptography and engineering team focused on cryptography-related projects. We have been operating since 2014. 
 
-We love open source. We develop many open-source products, libraries, developer tooling, etc. and believe that it brings us closer to the Financial Internet.
+We love open source. We develop many open-source products, libraries, developer tooling, etc., and believe that it brings us closer to the Financial Internet.
 
 ### Our contributions
 
+- Bitcoin SPV node as smart contract: [Contracts](https://github.com/distributed-lab/spv-gateway), [Bitcoin history prover](https://github.com/distributed-lab/bitcoin-prover), [ERC](https://ethereum-magicians.org/t/erc-8002-simplified-payment-verification-gateway/25038), [Paper](https://www.researchgate.net/publication/384273813_EXTENDING_THE_SPV_CONTRACT_CONCEPT_WITH_PRIVACY_GADGETS)
+- Wrapless: [Lightning node](https://github.com/distributed-lab/wrapless-lightning-node), [Paper](https://arxiv.org/abs/2507.06064)
 - [Rarimo](https://github.com/rarimo)
 - [Linea](https://github.com/Consensys/linea-monorepo/pull/356)
 - [zkSync precompiles for BN254 curve](https://github.com/distributed-lab/era-zkevm_circuits/tree/feature/bn254-circuits/src/bn254)
