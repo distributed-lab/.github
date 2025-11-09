@@ -13,7 +13,7 @@ We love open source. We develop many open-source products, libraries, developer 
 - [Nero: BitVM2 Made Practical](https://github.com/distributed-lab/nero)
 - Fast Windowed Multiplication implementation in Bitcoin: [Paper](https://eprint.iacr.org/2024/1236.pdf), [Implementation](https://github.com/distributed-lab/bitcoin-window-mul)
 - ZK Multisig: [Paper](https://github.com/distributed-lab/papers/blob/main/zk-multisig/zk_multisig.pdf), [Implementation](https://github.com/distributed-lab/zk-multisig)
-- [Bitcoin history prover](https://github.com/distributed-lab/bitcoin-prover)
+- [Bitcoin history prover in Noir](https://github.com/distributed-lab/bitcoin-prover)
 - [Verkle Tries in Noir](https://github.com/distributed-lab/noir-verkle)
 - [Noir Plume](https://github.com/distributed-lab/noir-plume)
 - Taprootized Atomic Swaps: [Paper](https://arxiv.org/abs/2402.16735), [Implementation](https://github.com/distributed-lab/taprootized-atomic-swaps)
