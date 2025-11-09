@@ -15,7 +15,6 @@ We love open source. We develop many open-source products, libraries, developer 
 - Taprootized Atomic Swaps: [Paper](https://arxiv.org/abs/2402.16735), [Implementation](https://github.com/distributed-lab/taprootized-atomic-swaps)
 - [Bulletproofs++ on Rust](https://github.com/distributed-lab/bp-pp) and [Bulletproofs++ on Go](https://github.com/distributed-lab/bulletproofs)
 - [Generic Rust library for BPCon](https://github.com/distributed-lab/bpcon)
-- [W3Sign](https://github.com/dl-w3sign)
 - [Coin Shuffle](https://github.com/coin-shuffle)
 
 ### Our research
